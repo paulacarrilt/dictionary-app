@@ -1,0 +1,12 @@
+.App {
+  text-align: left;
+  margin-left: 20px;
+  margin-top: 20px;
+  position: fixed;
+}
+
+.App-header {
+  font-size: 28px;
+  color: rgb(129, 121, 121);
+  text-align: left;
+}
