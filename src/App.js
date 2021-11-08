@@ -1,11 +1,12 @@
 import "./App.css";
+import "./SearchEngine.js";
+import SearchEngine from "./SearchEngine.js";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <div>Paula's Dictionary</div>
-      </header>
+      <div className="App-header">Paula's Dictionary</div>
+      <SearchEngine />
     </div>
   );
 }
