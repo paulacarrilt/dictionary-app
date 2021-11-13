@@ -32,7 +32,6 @@ export default function Dictionary() {
           className="searchBar"
           onChange={handleWord}
         />
-        <input type="submit" placeholder="Search a word here.." />
       </form>
       <Results results={results} />
     </div>
