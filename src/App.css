@@ -1,3 +1,6 @@
+body {
+  background: rgb(250, 228, 244);
+}
 .App {
   text-align: left;
   margin-left: 20px;
