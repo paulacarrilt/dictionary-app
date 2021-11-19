@@ -28,7 +28,6 @@ export default function Dictionary() {
           <input
             type="search"
             placeholder="Search a word here.."
-            autoFocus="on"
             autoComplete="off"
             className="searchBar"
             onChange={handleWord}

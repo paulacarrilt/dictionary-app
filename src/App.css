@@ -1,5 +1,9 @@
 body {
-  background: rgb(250, 228, 244);
+  background: rgb(250, 228, 241);
+}
+
+a {
+  color: rgb(241, 57, 192);
 }
 .App {
   text-align: left;
@@ -9,6 +13,10 @@ body {
 
 .App-header {
   font-size: 28px;
-  color: rgb(129, 121, 121);
+  color: rgb(255, 21, 193);
   text-align: left;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 36px;
+  font-style: italic;
 }

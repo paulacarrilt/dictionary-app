@@ -1,0 +1,10 @@
+.Synonyms {
+  margin: 10px 0;
+  padding: 0px;
+}
+.Synonyms li {
+  list-style-type: none;
+  margin-left: 0px;
+  display: inline-block;
+  padding-right: 15px;
+}
