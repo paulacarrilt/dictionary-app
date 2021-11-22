@@ -11,7 +11,13 @@ function App() {
       <footer>
         <small>
           Coded by{" "}
-          <a href="https://github.com/paulacarrilt">Paula Carril Torrens</a>
+          <a
+            href="https://github.com/paulacarrilt"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Paula Carril Torrens
+          </a>
         </small>
       </footer>
     </div>

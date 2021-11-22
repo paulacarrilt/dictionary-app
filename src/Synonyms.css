@@ -1,10 +1,14 @@
 .Synonyms {
+  color: rgb(248, 58, 197);
   margin: 10px 0;
   padding: 0px;
 }
 .Synonyms li {
   list-style-type: none;
-  margin-left: 0px;
+  margin-left: 10px;
+  margin-bottom: 10px;
   display: inline-block;
-  padding-right: 15px;
+  padding: 5px 10px;
+  border: 1px solid rgb(248, 58, 197);
+  border-radius: 20px;
 }
